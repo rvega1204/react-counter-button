@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/your-username/react-counter-buttons.git
+   git clone [https://github.com/your-username/react-counter-buttons.git](https://github.com/rvega1204/react-counter-button)
 
 2. Navigate into the project directory:
 
